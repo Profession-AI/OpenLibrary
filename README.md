@@ -58,8 +58,6 @@
 
 ### Machine Learning
 
-*(tutti i link Markdown corretti)*
-
 * [Machine Learning for Dummies](https://www.ibm.com/downloads/documents/us-en/10a99803c52fd9ed) | Judith Hurwitz, Daniel Kirsch | 2018 | (PDF) | EN
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) | Shai Shalev-Shwartz, Shai Ben-David | 2014 | (PDF) | EN
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai/) | Terence Parr, Jeremy Howard | 2018–2019 | (HTML) | EN
