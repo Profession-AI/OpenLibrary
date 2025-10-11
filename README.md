@@ -44,49 +44,49 @@ Adi-Cristina Mitea, Mallarswami Nonvinkere, Mirela Danubianu | 2010 | (PDF) | EN
 
 ### Machine Learning
  - [Machine Learning for Dummies](https://www.ibm.com/downloads/documents/us-en/10a99803c52fd9ed) | Judith Hurwitz, Daniel Kirsch | 2018 | (PDF) | EN
- - (Understanding Machine Learning: From Theory to Algorithms) [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html] | Shai Shalev-Shwartz, Shai Ben-David | 2014 | (PDF) | EN 
- - (The Mechanics of Machine Learning) [https://mlbook.explained.ai/] | Terence Parr, Jeremy Howard | 2018-2019 | (HTML) | EN 
- - (Mathematical Engineering of Deep Learning) [https://deeplearningmath.org/] | Benoit Liquet, Sarat Moka, Yoni Nazarathy | 2024 | (HTML) | EN 
- - (The Elements of Statistical Learning) [https://hastie.su.domains/ElemStatLearn/] | Trevor Hastie, Robert Tibshirani, Jerome Friedman | 2009 | (PDF) | EN 
- - (Python Machine Learning Projects) [https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook] | Lisa Tagliaferri, Michelle Morales, Ellie Birbeck, Alvin Wan | 2019 | (PDF) | EN 
- - (Probabilistic Machine Learning: An Introduction) [https://github.com/probml/pml-book/releases/latest/download/book1.pdf] | Kevin P. Murphy | 2022 | (PDF) | EN 
- - (Practitioners Guide to MLOps) [https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf] | Google | 2021 | (PDF) | EN 
- - (Pattern Recognition and Machine Learning) [https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf] | Christopher M. Bishop | 2006 | (PDF) | EN 
- - (Mathematics for Machine Learning) [https://mml-book.github.io/book/mml-book.pdf] | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | 2020 | (PDF) | EN 
- - (Machine Learning Simplified) [https://themlsbook.com/read] | Andrew Wolf | 2022 | (HTML) | EN
- - (Machine Learning with Python) [https://www.tutorialspoint.com/machine_learning_with_python/index.htm] | ? | ? | (HTML) | EN 
- - (Machine Learning from Scratch) [https://dafriedman97.github.io/mlbook/content/introduction.html] | Danny Friedman | 2020 | (HTML) | EN 
- - (Interpretable Machine Learning) [https://christophm.github.io/interpretable-ml-book/] | Christoph Molnar | 2025 (edizione 3) | (HTML) | EN 
- - (Gaussian Processes for Machine Learning) [https://gaussianprocess.org/gpml/chapters/] | Carl Edward Rasmussen, Christopher K. I. Williams | 2006 | (PDF) | EN 
- - (Foundations of Machine Learning) [https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/i] | Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar | 2018 | (eBook / preview) | EN
- - (Automated Machine Learning: Methods, Systems, Challenges) [https://link.springer.com/book/10.1007/978-3-030-05318-5] | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren (eds.) | 2019 | (PDF / eBook) | EN
- - (Approaching (Almost) Any Machine Learning Problem) [https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf] | Abhishek Thakur | 2020 | (PDF) | EN
- - (Applied Machine Learning for Tabular Data) [https://aml4td.org/] | Max Kuhn, Kjell Johnson | 2025 (in corso) | (HTML) | EN
- - (An Introduction to Statistical Learning with R) [https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html] | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN 
- - (An Introduction to Statistical Learning with Python) [https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html] | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN 
- - (A Brief Introduction to Machine Learning for Engineers) [https://arxiv.org/pdf/1709.02840] | Osvaldo Simeone | 2018 | (PDF) | EN
+ - (Understanding Machine Learning: From Theory to Algorithms)[https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html] | Shai Shalev-Shwartz, Shai Ben-David | 2014 | (PDF) | EN 
+ - (The Mechanics of Machine Learning)[https://mlbook.explained.ai/] | Terence Parr, Jeremy Howard | 2018-2019 | (HTML) | EN 
+ - (Mathematical Engineering of Deep Learning)[https://deeplearningmath.org/] | Benoit Liquet, Sarat Moka, Yoni Nazarathy | 2024 | (HTML) | EN 
+ - (The Elements of Statistical Learning)[https://hastie.su.domains/ElemStatLearn/] | Trevor Hastie, Robert Tibshirani, Jerome Friedman | 2009 | (PDF) | EN 
+ - (Python Machine Learning Projects)[https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook] | Lisa Tagliaferri, Michelle Morales, Ellie Birbeck, Alvin Wan | 2019 | (PDF) | EN 
+ - (Probabilistic Machine Learning: An Introduction)[https://github.com/probml/pml-book/releases/latest/download/book1.pdf] | Kevin P. Murphy | 2022 | (PDF) | EN 
+ - (Practitioners Guide to MLOps)[https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf] | Google | 2021 | (PDF) | EN 
+ - (Pattern Recognition and Machine Learning)[https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf] | Christopher M. Bishop | 2006 | (PDF) | EN 
+ - (Mathematics for Machine Learning)[https://mml-book.github.io/book/mml-book.pdf] | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | 2020 | (PDF) | EN 
+ - (Machine Learning Simplified)[https://themlsbook.com/read] | Andrew Wolf | 2022 | (HTML) | EN
+ - (Machine Learning with Python)[https://www.tutorialspoint.com/machine_learning_with_python/index.htm] | ? | ? | (HTML) | EN 
+ - (Machine Learning from Scratch)[https://dafriedman97.github.io/mlbook/content/introduction.html] | Danny Friedman | 2020 | (HTML) | EN 
+ - (Interpretable Machine Learning)[https://christophm.github.io/interpretable-ml-book/] | Christoph Molnar | 2025 (edizione 3) | (HTML) | EN 
+ - (Gaussian Processes for Machine Learning)[https://gaussianprocess.org/gpml/chapters/] | Carl Edward Rasmussen, Christopher K. I. Williams | 2006 | (PDF) | EN 
+ - (Foundations of Machine Learning)[https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/i] | Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar | 2018 | (eBook / preview) | EN
+ - (Automated Machine Learning: Methods, Systems, Challenges)[https://link.springer.com/book/10.1007/978-3-030-05318-5] | Frank Hutter, Lars Kotthoff, Joaquin Vanschoren (eds.) | 2019 | (PDF / eBook) | EN
+ - (Approaching (Almost) Any Machine Learning Problem)[https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf] | Abhishek Thakur | 2020 | (PDF) | EN
+ - (Applied Machine Learning for Tabular Data)[https://aml4td.org/] | Max Kuhn, Kjell Johnson | 2025 (in corso) | (HTML) | EN
+ - (An Introduction to Statistical Learning with R)[https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html] | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN 
+ - (An Introduction to Statistical Learning with Python)[https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html] | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN 
+ - (A Brief Introduction to Machine Learning for Engineers)[https://arxiv.org/pdf/1709.02840] | Osvaldo Simeone | 2018 | (PDF) | EN
 
 ### Deep Learning
  - [Alice’s Adventures in adifferentiable wonderland](https://www.sscardapane.it/assets/alice/Alice_book_volume_1.pdf)| Simone Scardapane | 2025 | (PDF) | EN
  - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)| François Fleuret| 2024| (PDF)| EN
- - (Neural Network Design) [https://hagan.okstate.edu/NNDesign.pdf] | Martin T. Hagan, Howard B. Demuth, Mark Beale | 1996 | (PDF) | EN 12
- - (Dive into Deep Learning) [https://d2l.ai/d2l-en.pdf] | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola et al. | 2019 | (PDF) | EN 
- - (Deep Learning) [https://www.deeplearningbook.org/] | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 2016 | (HTML) | EN 
- - (A Brief Introduction to Neural Networks) [https://www.dkriesel.com/en/science/neural_networks] | David Kriesel | 2007 | (PDF) | EN
+ - (Neural Network Design)[https://hagan.okstate.edu/NNDesign.pdf] | Martin T. Hagan, Howard B. Demuth, Mark Beale | 1996 | (PDF) | EN 12
+ - (Dive into Deep Learning)[https://d2l.ai/d2l-en.pdf] | Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola et al. | 2019 | (PDF) | EN 
+ - (Deep Learning)[https://www.deeplearningbook.org/] | Ian Goodfellow, Yoshua Bengio, Aaron Courville | 2016 | (HTML) | EN 
+ - (A Brief Introduction to Neural Networks)[https://www.dkriesel.com/en/science/neural_networks] | David Kriesel | 2007 | (PDF) | EN
  
 ### Computer Vision
  - [Computer Vision: Algorithms and Applications](https://szeliski.org/Book) | Richard Szeliski | 2022 | (PDF) | EN
  - [Programming Computer Vision with Python](http://programmingcomputervision.com) | Jan Erik Solem | 2012 | (PDF) | EN
 
 ### Natural Language Processing
- - (Speech and Language Processing) [https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf] | Daniel Jurafsky, James H. Martin | 2022 | (PDF) | EN 
+ - (Speech and Language Processing)[https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf] | Daniel Jurafsky, James H. Martin | 2022 | (PDF) | EN 
 
 ### Reinforcement Learning
- - (Algorithms for Reinforcement Learning) [https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf] | Csaba Szepesvári | 2009 / 2010 (versione pubblicata) | (PDF) | EN 
+ - (Algorithms for Reinforcement Learning)[https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf] | Csaba Szepesvári | 2009 / 2010 (versione pubblicata) | (PDF) | EN 
 
 ### Agentic AI
  - [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)| Antonio Gulli | 2025 | (Drive) | EN
 
 ### Prompt Engineering
  - [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) | Data Science Horizon | ? | (PDF) | EN
- - (Prompt Engineering) [https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf] | Lee Boonstra | 2025 | (PDF) | EN 
+ - (Prompt Engineering)[https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf] | Lee Boonstra | 2025 | (PDF) | EN 
