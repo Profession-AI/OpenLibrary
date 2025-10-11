@@ -1,14 +1,41 @@
 ### Coding
  - [Think Python](https://allendowney.github.io/ThinkPython) | Allen B. Downey | 2024 | (HTML, PDF) | EN
- - [Pensare da Informatico, Imparare con Python](https://www.python.it/doc/Howtothink/HowToThink_ITA.pdf)| Allen B. Downey | 2003 | (PDF) | IT
+ - [Pensare da Informatico, Imparare con Python](https://www.python.it/doc/Howtothink/HowToThink_ITA.pdf) | Allen B. Downey | 2003 | (PDF) | IT
  - [Python per tutti| Esplorare i dati con Python 3](https://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) | Charles R. Severance| 2016 | (PDF) | IT
- - [Immersione in Python 3](https://gpiancastelli.altervista.org/dip3-it)| Mark Pilgrim | 2009 | (HTML)| IT
- - [Il Linguaggio C, Ansi C](https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf)| Dennis Ritchie | 1985 | (PDF) | IT
+ - [Immersione in Python 3](https://gpiancastelli.altervista.org/dip3-it) | Mark Pilgrim | 2009 | (HTML)| IT
+ - [Il Linguaggio C, Ansi C](https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) | Dennis Ritchie | 1985 | (PDF) | IT
  - [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) | Johan Sannemo | 2018 | (PDF) | EN
+ - [Pull Requests and Code Review: Best Practices for Developers](https://github.com/scastiel/book-pr/blob/main/manuscript.md) | Sébastien Castiel | 2023 | (MD) | EN
 
 ### Computer Science
  - [A Data-Centric Introduction to Computing](https://dcic-world.org/2025-08-27/index.html) | Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz | 2025 | (HTML) | EN
  - [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP) | Mark Guzdial, Barbara Ericson | 2022 | (HTML) | EN
+ - [Introduction to Computer Science](https://openstax.org/books/introduction-computer-science/pages/1-introduction) | Jean-Claude Franchitti | 2024 | (HTML) | EN
+
+### Database
+ - [Database Design, 2nd Edition](https://opentextbc.ca/dbdesign01) | Adrienne Watt | 2014 | (HTML) | EN
+ - [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) | Joseph D. Booth | 2022 | (PDF, HTML) | EN
+ - [Database Exploration](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) | C. J. Date, Hugh Darwen | 2013 | (PDF) | EN
+ - [Database Management Systems, Solutions Manual](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) | Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, Lin Zhu | ? | (PDF) | EN
+ - [Database Fundamentals](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) | Neeraj Sharma, Liviu Perniu, Raul F. Chong, Abhishek Iyer, Chaitali Nandan,
+Adi-Cristina Mitea, Mallarswami Nonvinkere, Mirela Danubianu | 2010 | (PDF) | EN
+ - [Readings in Database Systems, 5th Edition](http://www.redbook.io) | Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker | 2015 | (PDF, HTML) | EN
+ - [The Theory of Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) | David Maier | 1983 | (PDF) | EN
+
+### Data Science
+ - [A Programmer's Guide to Data Mining](http://guidetodatamining.com) | Ron Zacharski | 2015 | (PDF) | EN
+ - [R Programming](https://en.wikibooks.org/wiki/R_Programming) | Wikibook | 2025 | (HTML) | EN
+ - [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) | Wikibook | 2025 | (HTML) | EN
+ - [Elements of Data Science](allendowney.github.io/ElementsOfDataScience/README.html) | Allen B. Downey | ? | (HTML) | EN
+ - [Data Mining: Concepts and Techniques](https://ia800603.us.archive.org/2/items/datamining_201811/DS-book%20u5.pdf) | Jiawei Han | 2022 | (PDF) | EN
+ - [Data Science at the command line](https://jeroenjanssens.com/dsatcl) | Jeroen Janssens | 2021 | (HTML) | EN
+ - [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES) | Max Kuhn, Kjell Johnson | 2019 | (HTML) | EN
+ - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) | Claus O. Wilke | 2019 | (HTML) | EN
+ - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) | Avrim Blum, John Hopcroft, Ravindran Kannan | 2018 | (PDF) | EN
+ - [Hands-On Data Visualization](https://handsondataviz.org) | Jack Dougherty, Ilya Ilyankou | 2025 | (HTML) | EN
+ - [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) | John Wright, Yi Ma | 2018 | (PDF) | EN
+ - [Mining of Massive Dataset](http://infolab.stanford.edu/~ullman/mmds/book.pdf) | Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman | 2014 | (PDF) | EN
+ - [Theory and Applications for Advanced Text Mining](https://www.intechopen.com/books/2746) | Shigeaki Sakurai | 2012 | (HTML) | EN
 
 ### Artificial Intelligence
  - [Artificial Intelligence, Third Edition](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) | Patrick Henry Winston | 1992 | (PDF) | EN
@@ -17,11 +44,15 @@
 
 ### Machine Learning
  - [Machine Learning for Dummies](https://www.ibm.com/downloads/documents/us-en/10a99803c52fd9ed) | Judith Hurwitz, Daniel Kirsch | 2018 | (PDF) | EN
- - [
+ - 
 
 ### Deep Learning
  - [Alice’s Adventures in adifferentiable wonderland](https://www.sscardapane.it/assets/alice/Alice_book_volume_1.pdf)| Simone Scardapane | 2025 | (PDF) | EN
  - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)| François Fleuret| 2024| (PDF)| EN
+
+### Computer Vision
+ - [Computer Vision: Algorithms and Applications](https://szeliski.org/Book) | Richard Szeliski | 2022 | (PDF) | EN
+ - [Programming Computer Vision with Python](http://programmingcomputervision.com) | Jan Erik Solem | 2012 | (PDF) | EN
 
 ### Agentic AI
  - [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)| Antonio Gulli | 2025 | (Drive) | EN
