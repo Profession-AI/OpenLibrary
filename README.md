@@ -82,3 +82,8 @@
 * [An Introduction to Statistical Learning with R](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN
 * [An Introduction to Statistical Learning with Python](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html) | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor | 2023 | (PDF) | EN
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840) | Osvaldo Simeone | 2018 | (PDF) | EN
+
+---
+
+### Computer Networks
+(An Introduction to Computer Networks)[https://intronetworks.cs.luc.edu/current2/html/intro.html | Peter L. Dordal | 2023 (edition 2.0.11) | (HTML) | EN
