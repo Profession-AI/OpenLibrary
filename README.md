@@ -86,4 +86,4 @@
 ---
 
 ### Computer Networks
-(An Introduction to Computer Networks)[https://intronetworks.cs.luc.edu/current2/html/intro.html | Peter L. Dordal | 2023 (edition 2.0.11) | (HTML) | EN
+* [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current2/html/intro.html) | Peter L. Dordal | 2023 | (HTML) | EN
